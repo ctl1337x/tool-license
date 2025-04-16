@@ -1,6 +1,15 @@
 {
   "status": "active",
   "allowed": [
-    "KLREP-4YQRG-VFTAB-3DH6O"
+    {
+      "key": "KLREP-4YQRG-VFTAB-3DH6O",
+      "username": "Mrcla",
+      "ip": "192.168.172.1"
+    },
+    {
+      "key": "JAKAL-UIJAK-UIKLA-OALAL",
+      "username": "otheruser",
+      "ip": "192.168.0.55"
+    }
   ]
 }
