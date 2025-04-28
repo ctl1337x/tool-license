@@ -3,8 +3,8 @@
   "allowed": [
     {
       "key": "KLREP-4YQRG-VFTAB-3DH6O",
-      "username": "Administrator",
-      "ip": "196.251.86.34"
+      "username": "HomePC",
+      "ip": "192.168.56.1"
     }
   ]
 }
